@@ -1,0 +1,336 @@
+📈 Top Gainers: [('CRL', np.float64(5.28)), ('FSLR', np.float64(4.34)), ('F', np.float64(4.18)), ('GM', np.float64(4.14)), ('PLTR', np.float64(4.03))]
+📉 Top Losers: [('DECK', np.float64(-2.63)), ('LUV', np.float64(-2.69)), ('UNH', np.float64(-2.91)), ('DVA', np.float64(-3.7)), ('HUM', np.float64(-4.26))]
+📊 Selected Tickers: ['CRL', 'FSLR', 'F', 'GM', 'PLTR', 'DECK', 'LUV', 'UNH', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for FSLR
+✅ Inserted data for F
+✅ Inserted data for GM
+✅ Inserted data for PLTR
+✅ Inserted data for DECK
+✅ Inserted data for LUV
+✅ Inserted data for UNH
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(5.5)), ('PLTR', np.float64(5.16)), ('FSLR', np.float64(5.06)), ('ENPH', np.float64(4.63)), ('WDC', np.float64(4.45))]
+📉 Top Losers: [('AVGO', np.float64(-2.08)), ('LUV', np.float64(-2.21)), ('UNH', np.float64(-2.83)), ('DVA', np.float64(-3.62)), ('HUM', np.float64(-3.96))]
+📊 Selected Tickers: ['CRL', 'PLTR', 'FSLR', 'ENPH', 'WDC', 'AVGO', 'LUV', 'UNH', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for PLTR
+✅ Inserted data for FSLR
+✅ Inserted data for ENPH
+✅ Inserted data for WDC
+✅ Inserted data for AVGO
+✅ Inserted data for LUV
+✅ Inserted data for UNH
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(6.38)), ('ENPH', np.float64(5.01)), ('PLTR', np.float64(4.47)), ('F', np.float64(4.45)), ('APTV', np.float64(4.32))]
+📉 Top Losers: [('AVGO', np.float64(-2.25)), ('META', np.float64(-2.32)), ('LUV', np.float64(-2.54)), ('DVA', np.float64(-3.13)), ('HUM', np.float64(-3.69))]
+📊 Selected Tickers: ['CRL', 'ENPH', 'PLTR', 'F', 'APTV', 'AVGO', 'META', 'LUV', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for ENPH
+✅ Inserted data for PLTR
+✅ Inserted data for F
+✅ Inserted data for APTV
+✅ Inserted data for AVGO
+✅ Inserted data for META
+✅ Inserted data for LUV
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(6.87)), ('ENPH', np.float64(5.13)), ('PLTR', np.float64(4.6)), ('APTV', np.float64(4.55)), ('FSLR', np.float64(4.23))]
+📉 Top Losers: [('UNH', np.float64(-2.07)), ('META', np.float64(-2.22)), ('LUV', np.float64(-2.41)), ('DVA', np.float64(-2.98)), ('HUM', np.float64(-3.46))]
+📊 Selected Tickers: ['CRL', 'ENPH', 'PLTR', 'APTV', 'FSLR', 'UNH', 'META', 'LUV', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for ENPH
+✅ Inserted data for PLTR
+✅ Inserted data for APTV
+✅ Inserted data for FSLR
+✅ Inserted data for UNH
+✅ Inserted data for META
+✅ Inserted data for LUV
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(6.87)), ('ENPH', np.float64(5.13)), ('PLTR', np.float64(4.6)), ('APTV', np.float64(4.55)), ('FSLR', np.float64(4.23))]
+📉 Top Losers: [('UNH', np.float64(-2.07)), ('META', np.float64(-2.22)), ('LUV', np.float64(-2.41)), ('DVA', np.float64(-2.98)), ('HUM', np.float64(-3.46))]
+📊 Selected Tickers: ['CRL', 'ENPH', 'PLTR', 'APTV', 'FSLR', 'UNH', 'META', 'LUV', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for ENPH
+✅ Inserted data for PLTR
+✅ Inserted data for APTV
+✅ Inserted data for FSLR
+✅ Inserted data for UNH
+✅ Inserted data for META
+✅ Inserted data for LUV
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(6.87)), ('ENPH', np.float64(5.13)), ('PLTR', np.float64(4.6)), ('APTV', np.float64(4.55)), ('FSLR', np.float64(4.23))]
+📉 Top Losers: [('UNH', np.float64(-2.07)), ('META', np.float64(-2.22)), ('LUV', np.float64(-2.41)), ('DVA', np.float64(-2.98)), ('HUM', np.float64(-3.46))]
+📊 Selected Tickers: ['CRL', 'ENPH', 'PLTR', 'APTV', 'FSLR', 'UNH', 'META', 'LUV', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for ENPH
+✅ Inserted data for PLTR
+✅ Inserted data for APTV
+✅ Inserted data for FSLR
+✅ Inserted data for UNH
+✅ Inserted data for META
+✅ Inserted data for LUV
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(6.87)), ('ENPH', np.float64(5.13)), ('PLTR', np.float64(4.6)), ('APTV', np.float64(4.55)), ('FSLR', np.float64(4.23))]
+📉 Top Losers: [('UNH', np.float64(-2.07)), ('META', np.float64(-2.22)), ('LUV', np.float64(-2.41)), ('DVA', np.float64(-2.98)), ('HUM', np.float64(-3.46))]
+📊 Selected Tickers: ['CRL', 'ENPH', 'PLTR', 'APTV', 'FSLR', 'UNH', 'META', 'LUV', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for ENPH
+✅ Inserted data for PLTR
+✅ Inserted data for APTV
+✅ Inserted data for FSLR
+✅ Inserted data for UNH
+✅ Inserted data for META
+✅ Inserted data for LUV
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('CRL', np.float64(6.87)), ('ENPH', np.float64(5.13)), ('PLTR', np.float64(4.6)), ('APTV', np.float64(4.55)), ('FSLR', np.float64(4.23))]
+📉 Top Losers: [('UNH', np.float64(-2.07)), ('META', np.float64(-2.22)), ('LUV', np.float64(-2.41)), ('DVA', np.float64(-2.98)), ('HUM', np.float64(-3.46))]
+📊 Selected Tickers: ['CRL', 'ENPH', 'PLTR', 'APTV', 'FSLR', 'UNH', 'META', 'LUV', 'DVA', 'HUM']
+✅ Inserted data for CRL
+✅ Inserted data for ENPH
+✅ Inserted data for PLTR
+✅ Inserted data for APTV
+✅ Inserted data for FSLR
+✅ Inserted data for UNH
+✅ Inserted data for META
+✅ Inserted data for LUV
+✅ Inserted data for DVA
+✅ Inserted data for HUM
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('NFLX', np.float64(5.32)), ('HPE', np.float64(4.38)), ('PLTR', np.float64(4.29)), ('CRWD', np.float64(4.27)), ('BAC', np.float64(4.18))]
+📉 Top Losers: [('BF-B', np.float64(-2.82)), ('LW', np.float64(-2.83)), ('F', np.float64(-2.99)), ('MOH', np.float64(-3.26)), ('ALB', np.float64(-3.52))]
+📊 Selected Tickers: ['NFLX', 'HPE', 'PLTR', 'CRWD', 'BAC', 'BF-B', 'LW', 'F', 'MOH', 'ALB']
+✅ Inserted data for NFLX
+✅ Inserted data for HPE
+✅ Inserted data for PLTR
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for BF-B
+✅ Inserted data for LW
+✅ Inserted data for F
+✅ Inserted data for MOH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('NFLX', np.float64(5.86)), ('PLTR', np.float64(4.93)), ('HPE', np.float64(4.73)), ('CRWD', np.float64(4.6)), ('BAC', np.float64(4.31))]
+📉 Top Losers: [('WAT', np.float64(-2.92)), ('MRNA', np.float64(-3.04)), ('ZBH', np.float64(-3.33)), ('MOH', np.float64(-3.52)), ('ALB', np.float64(-4.6))]
+📊 Selected Tickers: ['NFLX', 'PLTR', 'HPE', 'CRWD', 'BAC', 'WAT', 'MRNA', 'ZBH', 'MOH', 'ALB']
+✅ Inserted data for NFLX
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for WAT
+✅ Inserted data for MRNA
+✅ Inserted data for ZBH
+✅ Inserted data for MOH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('NFLX', np.float64(5.9)), ('PLTR', np.float64(5.16)), ('CRWD', np.float64(5.11)), ('BAC', np.float64(4.6)), ('HPE', np.float64(4.52))]
+📉 Top Losers: [('FSLR', np.float64(-3.7)), ('ENPH', np.float64(-3.74)), ('ZBH', np.float64(-3.76)), ('MRNA', np.float64(-4.14)), ('ALB', np.float64(-4.76))]
+📊 Selected Tickers: ['NFLX', 'PLTR', 'CRWD', 'BAC', 'HPE', 'FSLR', 'ENPH', 'ZBH', 'MRNA', 'ALB']
+✅ Inserted data for NFLX
+✅ Inserted data for PLTR
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for HPE
+✅ Inserted data for FSLR
+✅ Inserted data for ENPH
+✅ Inserted data for ZBH
+✅ Inserted data for MRNA
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('NFLX', np.float64(5.34)), ('CRWD', np.float64(4.81)), ('PLTR', np.float64(4.68)), ('HPE', np.float64(4.52)), ('BAC', np.float64(4.38))]
+📉 Top Losers: [('DOW', np.float64(-3.47)), ('TECH', np.float64(-3.59)), ('ZBH', np.float64(-4.11)), ('MRNA', np.float64(-4.14)), ('ALB', np.float64(-5.56))]
+📊 Selected Tickers: ['NFLX', 'CRWD', 'PLTR', 'HPE', 'BAC', 'DOW', 'TECH', 'ZBH', 'MRNA', 'ALB']
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for BAC
+✅ Inserted data for DOW
+✅ Inserted data for TECH
+✅ Inserted data for ZBH
+✅ Inserted data for MRNA
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.38)), ('NFLX', np.float64(5.52)), ('HPE', np.float64(5.08)), ('CRWD', np.float64(3.85)), ('BAC', np.float64(3.67))]
+📉 Top Losers: [('MOH', np.float64(-3.41)), ('DOW', np.float64(-3.79)), ('MTD', np.float64(-3.9)), ('ZBH', np.float64(-4.44)), ('ALB', np.float64(-6.01))]
+📊 Selected Tickers: ['PLTR', 'NFLX', 'HPE', 'CRWD', 'BAC', 'MOH', 'DOW', 'MTD', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for NFLX
+✅ Inserted data for HPE
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for MTD
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('PLTR', np.float64(6.24)), ('HPE', np.float64(5.11)), ('NFLX', np.float64(4.83)), ('CRWD', np.float64(3.73)), ('BAC', np.float64(3.6))]
+📉 Top Losers: [('FSLR', np.float64(-3.38)), ('MOH', np.float64(-3.75)), ('DOW', np.float64(-4.09)), ('ZBH', np.float64(-4.61)), ('ALB', np.float64(-5.89))]
+📊 Selected Tickers: ['PLTR', 'HPE', 'NFLX', 'CRWD', 'BAC', 'FSLR', 'MOH', 'DOW', 'ZBH', 'ALB']
+✅ Inserted data for PLTR
+✅ Inserted data for HPE
+✅ Inserted data for NFLX
+✅ Inserted data for CRWD
+✅ Inserted data for BAC
+✅ Inserted data for FSLR
+✅ Inserted data for MOH
+✅ Inserted data for DOW
+✅ Inserted data for ZBH
+✅ Inserted data for ALB
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('APA', np.float64(4.06)), ('ABT', np.float64(3.61)), ('FANG', np.float64(2.97)), ('DVN', np.float64(2.95)), ('CTRA', np.float64(2.49))]
+📉 Top Losers: [('OMC', np.float64(-6.66)), ('IPG', np.float64(-6.88)), ('JBHT', np.float64(-7.59)), ('AMD', np.float64(-8.16)), ('NVDA', np.float64(-8.49))]
+📊 Selected Tickers: ['APA', 'ABT', 'FANG', 'DVN', 'CTRA', 'OMC', 'IPG', 'JBHT', 'AMD', 'NVDA']
+✅ Inserted data for APA
+✅ Inserted data for ABT
+✅ Inserted data for FANG
+✅ Inserted data for DVN
+✅ Inserted data for CTRA
+✅ Inserted data for OMC
+✅ Inserted data for IPG
+✅ Inserted data for JBHT
+✅ Inserted data for AMD
+✅ Inserted data for NVDA
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('ABT', np.float64(3.61)), ('APA', np.float64(3.39)), ('DVN', np.float64(2.63)), ('FANG', np.float64(2.61)), ('TRGP', np.float64(2.58))]
+📉 Top Losers: [('KLAC', np.float64(-7.38)), ('JBHT', np.float64(-7.92)), ('PLTR', np.float64(-8.38)), ('AMD', np.float64(-9.41)), ('NVDA', np.float64(-10.0))]
+📊 Selected Tickers: ['ABT', 'APA', 'DVN', 'FANG', 'TRGP', 'KLAC', 'JBHT', 'PLTR', 'AMD', 'NVDA']
+✅ Inserted data for ABT
+✅ Inserted data for APA
+✅ Inserted data for DVN
+✅ Inserted data for FANG
+✅ Inserted data for TRGP
+✅ Inserted data for KLAC
+✅ Inserted data for JBHT
+✅ Inserted data for PLTR
+✅ Inserted data for AMD
+✅ Inserted data for NVDA
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('APA', np.float64(3.22)), ('TRGP', np.float64(2.79)), ('ABT', np.float64(2.74)), ('DVN', np.float64(2.66)), ('NEM', np.float64(2.46))]
+📉 Top Losers: [('NVDA', np.float64(-6.87)), ('OMC', np.float64(-7.25)), ('AMD', np.float64(-7.35)), ('IPG', np.float64(-7.42)), ('JBHT', np.float64(-7.68))]
+📊 Selected Tickers: ['APA', 'TRGP', 'ABT', 'DVN', 'NEM', 'NVDA', 'OMC', 'AMD', 'IPG', 'JBHT']
+✅ Inserted data for APA
+✅ Inserted data for TRGP
+✅ Inserted data for ABT
+✅ Inserted data for DVN
+✅ Inserted data for NEM
+✅ Inserted data for NVDA
+✅ Inserted data for OMC
+✅ Inserted data for AMD
+✅ Inserted data for IPG
+✅ Inserted data for JBHT
+✅ All selected stock data inserted into Snowflake.
