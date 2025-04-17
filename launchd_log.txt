@@ -334,3 +334,17 @@
 ✅ Inserted data for IPG
 ✅ Inserted data for JBHT
 ✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('APA', np.float64(3.22)), ('ABT', np.float64(2.76)), ('TRGP', np.float64(2.76)), ('DVN', np.float64(2.7)), ('NEM', np.float64(2.51))]
+📉 Top Losers: [('NVDA', np.float64(-6.87)), ('OMC', np.float64(-7.28)), ('AMD', np.float64(-7.35)), ('IPG', np.float64(-7.44)), ('JBHT', np.float64(-7.68))]
+📊 Selected Tickers: ['APA', 'ABT', 'TRGP', 'DVN', 'NEM', 'NVDA', 'OMC', 'AMD', 'IPG', 'JBHT']
+✅ Inserted data for APA
+✅ Inserted data for ABT
+✅ Inserted data for TRGP
+✅ Inserted data for DVN
+✅ Inserted data for NEM
+✅ Inserted data for NVDA
+✅ Inserted data for OMC
+✅ Inserted data for AMD
+✅ Inserted data for IPG
+✅ Inserted data for JBHT
+✅ All selected stock data inserted into Snowflake.
