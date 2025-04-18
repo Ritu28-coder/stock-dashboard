@@ -348,3 +348,72 @@
 ✅ Inserted data for IPG
 ✅ Inserted data for JBHT
 ✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('APA', np.float64(3.22)), ('ABT', np.float64(2.76)), ('TRGP', np.float64(2.76)), ('DVN', np.float64(2.7)), ('NEM', np.float64(2.51))]
+📉 Top Losers: [('NVDA', np.float64(-6.87)), ('OMC', np.float64(-7.28)), ('AMD', np.float64(-7.35)), ('IPG', np.float64(-7.44)), ('JBHT', np.float64(-7.68))]
+📊 Selected Tickers: ['APA', 'ABT', 'TRGP', 'DVN', 'NEM', 'NVDA', 'OMC', 'AMD', 'IPG', 'JBHT']
+✅ Inserted data for APA
+✅ Inserted data for ABT
+✅ Inserted data for TRGP
+✅ Inserted data for DVN
+✅ Inserted data for NEM
+✅ Inserted data for NVDA
+✅ Inserted data for OMC
+✅ Inserted data for AMD
+✅ Inserted data for IPG
+✅ Inserted data for JBHT
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.8)), ('FIS', np.float64(6.91)), ('DLTR', np.float64(5.61)), ('FANG', np.float64(5.43)), ('OXY', np.float64(3.69))]
+📉 Top Losers: [('HUM', np.float64(-7.25)), ('AMD', np.float64(-7.35)), ('SNA', np.float64(-8.53)), ('GPN', np.float64(-18.14)), ('UNH', np.float64(-22.29))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'OXY', 'HUM', 'AMD', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for OXY
+✅ Inserted data for HUM
+✅ Inserted data for AMD
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.39)), ('FIS', np.float64(7.14)), ('DLTR', np.float64(6.75)), ('FANG', np.float64(5.54)), ('APA', np.float64(4.72))]
+📉 Top Losers: [('MMC', np.float64(-4.6)), ('HUM', np.float64(-6.92)), ('SNA', np.float64(-8.36)), ('GPN', np.float64(-16.83)), ('UNH', np.float64(-23.11))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'APA', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for APA
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.93)), ('FIS', np.float64(7.48)), ('DLTR', np.float64(6.64)), ('FANG', np.float64(6.14)), ('OXY', np.float64(4.5))]
+📉 Top Losers: [('MMC', np.float64(-4.49)), ('HUM', np.float64(-6.95)), ('SNA', np.float64(-8.38)), ('GPN', np.float64(-17.26)), ('UNH', np.float64(-22.72))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'OXY', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+❌ Failed for FIS: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+✅ Inserted data for DLTR
+❌ Failed for FANG: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+❌ Failed for OXY: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+❌ Failed for MMC: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+❌ Failed for HUM: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+❌ Failed for SNA: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+❌ Failed for GPN: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+❌ Failed for UNH: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.

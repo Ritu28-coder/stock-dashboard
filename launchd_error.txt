@@ -16,3 +16,66 @@ $BAC: possibly delisted; no price data found  (period=1d)
 $ZBH: possibly delisted; no price data found  (period=1d)
 $ALB: possibly delisted; no price data found  (period=1d)
 $IPG: possibly delisted; no price data found  (period=1d)
+$DVN: possibly delisted; no price data found  (period=1d)
+$AMD: possibly delisted; no price data found  (period=1d)
+$ABNB: possibly delisted; no price data found  (period=2d)
+$AME: possibly delisted; no price data found  (period=2d)
+$BALL: possibly delisted; no price data found  (period=2d)
+$COF: possibly delisted; no price data found  (period=2d)
+$CNP: possibly delisted; no price data found  (period=2d)
+$CB: possibly delisted; no price data found  (period=2d)
+$DHR: possibly delisted; no price data found  (period=2d)
+$DELL: possibly delisted; no price data found  (period=2d)
+$SNA: possibly delisted; no price data found  (period=1d)
+$FANG: possibly delisted; no price data found  (period=1d)
+$DLTR: possibly delisted; no price data found  (period=1d)
+Traceback (most recent call last):
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/network.py", line 771, in _post_request
+    ret = self._renew_session()
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/network.py", line 538, in _renew_session
+    return self._token_request(REQUEST_TYPE_RENEW)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/network.py", line 593, in _token_request
+    raise ReauthenticationRequest(
+    ...<5 lines>...
+    )
+snowflake.connector.network.ReauthenticationRequest: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mayur/stock-analysis-project/insert_dynamic.py", line 83, in <module>
+    conn.commit()
+    ~~~~~~~~~~~^^
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/connection.py", line 872, in commit
+    self.cursor().execute("COMMIT")
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/cursor.py", line 994, in execute
+    ret = self._execute_helper(query, **kwargs)
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/cursor.py", line 700, in _execute_helper
+    ret = self._connection.cmd_query(
+        query,
+    ...<11 lines>...
+        dataframe_ast=dataframe_ast,
+    )
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/connection.py", line 1388, in cmd_query
+    ret = self.rest.request(
+        "/queries/v1/query-request?" + urlencode(url_parameters),
+    ...<5 lines>...
+        timeout=timeout,
+    )
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/network.py", line 502, in request
+    return self._post_request(
+           ~~~~~~~~~~~~~~~~~~^
+        url,
+        ^^^^
+    ...<6 lines>...
+        no_retry=_no_retry,
+        ^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/mayur/stock-analysis-project/venv/lib/python3.13/site-packages/snowflake/connector/network.py", line 774, in _post_request
+    raise ex.cause
+snowflake.connector.errors.ProgrammingError: 390114 (08001): Authentication token has expired.  The user must authenticate again.
+$FANG: possibly delisted; no price data found  (period=1d)
+$HUM: possibly delisted; no price data found  (period=1d)
