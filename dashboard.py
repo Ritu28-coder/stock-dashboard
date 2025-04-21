@@ -130,13 +130,13 @@ with st.sidebar.expander("🎨 Chart Style", expanded=False):
     chart_type = st.radio("Choose chart type", ["Line", "Area"], horizontal=True)
 
 # 5️⃣ About
-with st.sidebar.expander("ℹ️ About"):
-    st.markdown(
-        """
-        *Author • **Ritu Bagul***  
-        GitHub repo coming soon – star ★ & give feedback!
-        """
-    )
+st.sidebar.subheader('📘 About')
+st.sidebar.markdown("""
+This dashboard is built with **Streamlit + Snowflake** to visualize real-time stock data.
+
+🔗 [GitHub Repository](https://github.com/Ritu28-coder/stock-dashboard)
+""")
+
 
 # ──────────────────────────────────────────────────────────────
 # 📊  MAIN TABS
