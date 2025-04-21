@@ -417,3 +417,255 @@
 ✅ Inserted data for GPN
 ✅ Inserted data for UNH
 ✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
+📈 Top Gainers: [('LLY', np.float64(14.3)), ('FIS', np.float64(8.65)), ('DLTR', np.float64(8.1)), ('FANG', np.float64(5.7)), ('HAL', np.float64(5.13))]
+📉 Top Losers: [('MMC', np.float64(-4.86)), ('HUM', np.float64(-7.4)), ('SNA', np.float64(-8.0)), ('GPN', np.float64(-17.43)), ('UNH', np.float64(-22.38))]
+📊 Selected Tickers: ['LLY', 'FIS', 'DLTR', 'FANG', 'HAL', 'MMC', 'HUM', 'SNA', 'GPN', 'UNH']
+✅ Inserted data for LLY
+✅ Inserted data for FIS
+✅ Inserted data for DLTR
+✅ Inserted data for FANG
+✅ Inserted data for HAL
+✅ Inserted data for MMC
+✅ Inserted data for HUM
+✅ Inserted data for SNA
+✅ Inserted data for GPN
+✅ Inserted data for UNH
+✅ All selected stock data inserted into Snowflake.
